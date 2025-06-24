@@ -1,0 +1,6 @@
+@FlygplatsApi_HostAddress = http://localhost:5228
+
+GET {{FlygplatsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
