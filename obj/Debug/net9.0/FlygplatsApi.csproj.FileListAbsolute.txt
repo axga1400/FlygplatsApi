@@ -287,3 +287,4 @@
 /Users/axelgannedahl/Desktop/FlygplatsApi/FlygplatsApi/bin/Debug/net9.0/publish/FlygplatsApi.deps.json
 /Users/axelgannedahl/Desktop/FlygplatsApi/FlygplatsApi/bin/Debug/net9.0/publish/FlygplatsApi.runtimeconfig.json
 /Users/axelgannedahl/Desktop/FlygplatsApi/FlygplatsApi/bin/Debug/net9.0/publish/FlygplatsApi.staticwebassets.endpoints.json
+/Users/axelgannedahl/Desktop/FlygplatsApi/FlygplatsApi/obj/Debug/net9.0/FlygplatsApi.sourcelink.json

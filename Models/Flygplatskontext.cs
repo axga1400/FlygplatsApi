@@ -9,6 +9,8 @@ namespace FlygplatsApi.Models
         }
 
         public DbSet<Flyg> Flyg { get; set; } = null!;
+        public DbSet<Gate> Gates { get; set; } = null!;
+
 
     }
 }
