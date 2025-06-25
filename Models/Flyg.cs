@@ -3,6 +3,8 @@ namespace FlygplatsApi.Models
     public class Flyg
     {
         public long Id { get; set; }
+
+        public string? Avgangsplats { get; set; }
         public DateTime Avgang { get; set; }
         public DateTime Ankomst { get; set; }
         public string? Flygnummer { get; set; }

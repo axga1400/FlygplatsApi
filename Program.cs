@@ -9,8 +9,9 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.Services.AddDbContext<Flygplatskontext>(opt =>
-    opt.UseInMemoryDatabase("Flygplatsdatabas"));
+builder.Services.AddDbContext<Flygplatskontext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("FlygplatsDb")));
+    
 
 var app = builder.Build();
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlygplatsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bcea55697e584b09812fa4b435ac812361b381")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d8f36d2374d785f0432e8aa7d3eaa76fc24d4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlygplatsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlygplatsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
